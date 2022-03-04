@@ -1,0 +1,75 @@
+a {
+  text-decoration: none;
+}
+
+.logo {
+  color: #77c863;
+}
+
+/* Features */
+
+.features h2 {
+  font-weight: 300;
+}
+
+.features h6 {
+  font-weight: bold;
+}
+
+.features a {
+  color: black;
+}
+
+.features a:hover {
+  color: #77c863;
+}
+
+.features-img {
+  width: 20%;
+  margin-bottom: 1rem;
+}
+
+/* About */
+
+.about-img {
+  width: 100%;
+}
+
+.about-title {
+  font-size: 3rem;
+}
+
+.about-text {
+  font-size: 1.2rem;
+}
+
+.about ul {
+  padding: 0;
+}
+
+.about li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  letter-spacing: 0.1rem;
+}
+
+/* Footer */
+footer {
+  background-color: #2a2c30;
+  color: white;
+  font-size: 0.8rem;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: #77c863;
+}
+
+.footer-logo {
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+}
